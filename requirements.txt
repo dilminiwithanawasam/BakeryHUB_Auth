@@ -1,0 +1,1 @@
+Django, djangorestframework, djangorestframework-simplejwt, psycopg2-binary, gunicorn, django-cors-headers, Pillow, python-dotenv
